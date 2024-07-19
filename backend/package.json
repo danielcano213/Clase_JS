@@ -1,0 +1,17 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "emular carrito de compras en backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ShoppingCart.js",
+    "dev": "nodemon ShoppingCart.js"
+    
+  },
+  "keywords": [],
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
